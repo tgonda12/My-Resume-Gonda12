@@ -1,0 +1,63 @@
+
+.default_div {
+    position: absolute;
+    background-color: rgb(218, 213, 213);
+}
+
+.header{
+    top: 5px; 
+    left: 5px;
+    right: 5px;
+    height: 200px;
+    
+    text-align: center; 
+    color: navy;
+}
+
+.body {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+
+.left_menu {
+    top: 214px;
+    left: 5px;
+    width: 350px;
+    bottom: 108px;
+}
+
+.main_content {
+    top: 214px;
+    left: 365px;
+    width: 712px;
+    bottom: 108px;
+}
+
+.right_menu {
+    top: 214px;
+    width: 350px;
+    right: 5px;
+    bottom: 108px;
+}
+
+.footer {
+    bottom: 5px;
+    height: 100px;
+    left: 5px;
+    right: 5px;
+}
+
+p{
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+.special_text {
+    color: black;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: larger;
+}
+
